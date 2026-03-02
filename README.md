@@ -1,4 +1,4 @@
-# WordCounter
+# Word Counter
 
 Discord サーバー内の特定ワードを含むメッセージや、指定ロールを持つユーザーの全発言をカウントする Discord Bot です。
 
@@ -14,7 +14,7 @@ Discord サーバー内の特定ワードを含むメッセージや、指定ロ
 ### 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/your-username/WordCounter.git
+git clone https://github.com/Ramune-07/Word-Counter.git
 cd WordCounter
 ```
 
